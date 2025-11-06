@@ -1,7 +1,7 @@
 # 🚨 DisasterConnect – Offline Crisis Communication Network
 
-![Project Banner]()
-> *(Replace the image above with your own image file, e.g. `screenshot.png` or `demo.jpg`)*
+![Project Banner](./readme_img/dcw.png)
+
 
 ---
 
@@ -14,3 +14,4 @@ This project is part of **CS 360 – Software Engineering**, focusing on **syste
 ---
 
 ## 🧩 Project Structure
+
